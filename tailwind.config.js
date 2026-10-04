@@ -1,0 +1,1 @@
+module.exports = { content: ['./app/**/*.{js,jsx}', './components/**/*.{js,jsx}'], theme: { extend: { colors: { ink:'#17251f', forest:'#1d5b45', lime:'#d8ef8b', paper:'#f7f8f4' }, fontFamily: { sans:['Arial','sans-serif'] } } }, plugins: [] };
